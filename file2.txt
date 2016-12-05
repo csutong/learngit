@@ -1,3 +1,4 @@
 Git is a version control system.
 Git is free software.
-file 2 is me.
+file 2 is me
+hello,coco
